@@ -7,7 +7,7 @@ Release:          1
 Summary:          Support Functions and Datasets for Venables and Ripley's MASS
 Group:            Sciences/Mathematics
 License:          GPL-2 | GPL-3
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_7.3-33.tar.gz
 
 Requires:         R-grDevices R-graphics R-stats R-utils 
